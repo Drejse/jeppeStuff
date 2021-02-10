@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2391b83-84fa-4b1b-b730-0149fa9b45f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../InterfaceGrind/src/com/company/ByTwos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceGrind/src/com/company/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceGrind/src/com/company/SeriesSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceGrind/src/com/company/byThrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonStuff/src/com/company/ReadJSONFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarioPizzaBar/src/com/company/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarioPizzaBar/src/com/company/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarioPizzaBar/src/com/company/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarioPizzaBar/src/com/company/PizzaMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebApp/src/main/java/launch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewJDBCProject/src/mysql-connector-java-8.0.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TorsdagsTræning03-12/src/com/company/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TorsdagsTræning03-12/src/com/company/Bog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TorsdagsTræning03-12/src/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TorsdagsTræning03-12/src/com/company/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TorsdagsTræning03-12/src/com/company/Libary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/Exceptions/ScannerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/IfElse/IfElseLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/Interface/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/Interface/SeriesSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/Interface/byThrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/Interface/byTwos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/Scanner/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/basicProgrammingStuff/whatIsAclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/datatyper/datatypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/fileWriterFileReader/DeleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/inheritance/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/inheritance/MountainBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/inheritance/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteToFile/src/loops/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examProject/examProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examProject/src/ExamProject/MakeChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examProject/src/ExamProject/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newJsonstuff/src/main/java/yahooStockAPi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankProgram/src/com/company/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankProgram/src/com/company/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Biludlejning/src/com/company/Benzinbil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Biludlejning/src/com/company/Benzinbil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Biludlejning/src/com/company/Bil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Biludlejning/src/com/company/Bil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Biludlejning/src/com/company/Dieselbil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Biludlejning/src/com/company/Dieselbil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Biludlejning/src/com/company/Elbil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Biludlejning/src/com/company/Elbil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Biludlejning/src/com/company/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Biludlejning/src/com/company/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReader/src/com/company/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReader/src/com/company/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewMario/src/com/company/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewMario/src/com/company/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewMario/src/com/company/Orderfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewMario/src/com/company/Orderfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewMario/src/com/company/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewMario/src/com/company/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewMario/src/com/company/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewMario/src/com/company/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quizgame/src/com/company/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quizgame/src/com/company/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises41/src/com/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises41/src/com/Task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_excersises/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jeppestuff/src/com/company/Cup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jeppestuff/src/com/company/Cup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jeppestuff/src/com/company/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jeppestuff/src/com/company/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jeppestuff/src/com/company/Dicegames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jeppestuff/src/com/company/Dicegames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jeppestuff/src/com/company/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jeppestuff/src/com/company/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../petrock/src/com/company/hey.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../petrock/src/com/company/petrock.puml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1oINsFXNQhFUUCF81so8NsUvjgu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="sorting" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2391b83-84fa-4b1b-b730-0149fa9b45f1" name="Default Changelist" comment="" />
+      <created>1612970375228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612970375228</updated>
+      <workItem from="1612970376700" duration="2744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
